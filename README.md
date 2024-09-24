@@ -1,5 +1,7 @@
 # ai-company-agent
 
+<img width="1271" alt="agent workflow" src="https://github.com/user-attachments/assets/855321bc-3a50-4368-8801-93512e189cd2">
+
 
 # Demo
 
